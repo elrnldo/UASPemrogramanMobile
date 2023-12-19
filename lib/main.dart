@@ -92,7 +92,7 @@ class MyHomePage extends StatelessWidget {
                           Padding(
                             padding: const EdgeInsets.only(left: 8.0),
                             child: AvatarFrame(
-                              imageUrl: 'https://pbs.twimg.com/media/ElL8ph0U0AAXq5W.jpg',
+                              imageUrl: 'https://cdn-icons-png.flaticon.com/512/5141/5141534.png',
                             ),
                           ),
                         ],
@@ -122,7 +122,7 @@ class MyHomePage extends StatelessWidget {
                             },
                             style: ElevatedButton.styleFrom(
                               minimumSize: Size(150, 50),
-                              primary: Color.fromARGB(255, 255, 193, 60),
+                              primary: Color.fromARGB(255, 205, 162, 93),
                             ),
                             child: Text('Get Recipe'),
                           ),
@@ -174,7 +174,7 @@ class MyHomePage extends StatelessWidget {
                   child: Row(
                     children: [
                       RecipeCard(
-                        imageUrl: 'https://cdn1-production-images-kly.akamaized.net/uBuE5OD3B9pUTVNJd81cB819z7Y=/0x194:5616x3359/800x450/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3048436/original/030475400_1581499756-shutterstock_413580649.jpg',
+                        imageUrl: 'https://www.thevegspace.co.uk/wp-content/uploads/2015/06/FV-Insta-3.jpg',
                         dishName: 'Spaghetti Bolognese',
                         time: '30-45 Minutes',
                         difficulty: 'Medium',
@@ -182,7 +182,7 @@ class MyHomePage extends StatelessWidget {
                       ),
                       SizedBox(width: 20),
                       RecipeCard(
-                        imageUrl: 'https://img.taste.com.au/d4JNfJUH/taste/2019/07/classic-beef-stew-151457-2.jpg',
+                        imageUrl: 'https://i0.wp.com/goodstuff.recipes/wp-content/uploads/2020/12/HERO-Beef-stew-rect-3.jpg?fit=750%2C553&ssl=1',
                         dishName: 'Classic Beef Stew',
                         time: '45-60 Minutes',
                         difficulty: 'Easy',
@@ -224,7 +224,7 @@ class MyHomePage extends StatelessWidget {
                   child: Row(
                     children: [
                       AvatarRecipeCard(
-                        imageUrl: 'https://img.wattpad.com/cover/337063381-256-k969823.jpg',
+                        imageUrl: 'https://www.pinkvilla.com/pics/480x480/2007636181_taylor-swift_202310.jpg',
                         chefName: 'I can Tooth',
                         time: '22',
                         difficulty: '89911',
@@ -232,7 +232,7 @@ class MyHomePage extends StatelessWidget {
                       ),
                       SizedBox(width: 10),
                       AvatarRecipeCard(
-                        imageUrl: 'https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/navia/image.png?strip=all&quality=100',
+                        imageUrl: 'https://cdns.klimg.com/kapanlagi.com/p/ab67616d0000b27388e3cda6d29b2552d4d6bc43.jpg',
                         chefName: 'You Pink Sun',
                         time: '101',
                         difficulty: '120420',
@@ -260,7 +260,7 @@ class MyHomePage extends StatelessWidget {
       decoration: BoxDecoration(
         boxShadow: [
           BoxShadow(
-            color: Color.fromARGB(189, 169, 130,0), 
+            color: Color.fromARGB(188, 222, 198, 117), 
             blurRadius: 30,
             spreadRadius: 10,
           ),
