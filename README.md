@@ -1,16 +1,14 @@
-# resepku
+Gambar Aplikasi dengan Flutter Ketika di Run
+![image](https://github.com/elrnldo/UASPemrogramanMobile/assets/105648660/affbe1a5-9b92-486b-9e92-6433b8604acc)
+![image](https://github.com/elrnldo/UASPemrogramanMobile/assets/105648660/5ddbfc63-8fde-4894-9f79-8e54c8ab2be2)
 
-A new Flutter project.
+Cara Menjalankan Repository
+1). Jalan kan "git clone https://github.com/elrnldo/UASPemrogramanMobile.git" untuk mengclone direktori ke lokal
+2). Masuk kedalam Code Editor Visual Studio Code
+3). Run "flutter pub get"
+4). Jalankan Emulator
+5). Jalankan "flutter run" untuk menjalankan aplikasi Flutter di emulator.
 
-## Getting Started
+Badge Developer Android
+![image](https://github.com/elrnldo/UASPemrogramanMobile/assets/105648660/d3657d1d-f9a9-4df8-813b-de3c2fe9ed84)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
